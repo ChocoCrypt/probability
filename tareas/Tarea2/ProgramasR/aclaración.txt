@@ -1,0 +1,2 @@
+en el punto4ext.r el metodo que calcula el error funciona, sin embargo, puede tardar mucho tiempo en calcular en el error, por lo que es mejor inicializar el contador en 2110000 y poner el aumento tan grande como tan preciso se quiera calcular el error, sin embargo, lo ideal sería calcularlo de 1 en 1.
+

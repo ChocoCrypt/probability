@@ -1,0 +1,4 @@
+podemos concluir que al aumentar el tamaño de la muestra los errores se van haciendo mas pequeños y se van acercando a 0 , es decir, la diferencia relativa con respecto a la media poblacional se reduce y la media muestral se acerca mucho mas a la media poblacional.
+
+Al calcular la diferencia relativa con respecto al percentil teorico(percentil 60 de una normal estandar) se encuentra que al aumentar el tamaño de la muestra los valores de los errores se van haciendo mas pequeños y se evidencia una tendencia en los histogramas a un comportamiento de una normal estandar
+
